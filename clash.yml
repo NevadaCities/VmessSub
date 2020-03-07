@@ -7,7 +7,7 @@ external-ui: dashboard_Razord
 external-controller: 127.0.0.1:9090
 dns:
   enable: true
-  listen: 127.0.0.1:53
+  listen: 0.0.0.0:53
   ipv6: false
   fake-ip-range: 240.0.0.1/24
   enhanced-mode: fake-ip
