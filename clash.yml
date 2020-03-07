@@ -17,6 +17,9 @@ dns:
    - udp://1.1.1.1:53
    - udp://8.8.8.8:53
 cfw-bypass:
+  - qq.com
+  - music.163.com
+  - '*.music.126.net'
   - localhost
   - 127.*
   - 10.*
@@ -38,3 +41,7 @@ cfw-bypass:
   - 172.31.*
   - 192.168.*
   - <local>
+cfw-latency-timeout: 5000
+Proxy: ~
+Proxy Group: ~
+Rule: ~ 
