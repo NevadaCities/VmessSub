@@ -9,15 +9,19 @@ dns:
   enable: true
   listen: 0.0.0.0:53
   ipv6: false
-  fake-ip-range: 192.18.0.1/16
   enhanced-mode: fake-ip
+  fake-ip-range: 192.18.0.1/16
+  fake-ip-filter:
+   - '*.lan'
+   - localhost.ptlogin2.qq.com
   nameserver:
+   - udp://223.5.5.5:53
+   - udp://119.29.29.29:53
+   - udp://180.76.76.76:53
+  fallback:
    - udp://1.1.1.1:53
    - udp://8.8.8.8:53
    - udp://9.9.9.9:53
-  fallback:
-   - udp://223.5.5.5:53
-   - udp://119.29.29.29:53
   fallback-filter:
    geoip: true
    ipcidr:
