@@ -17,11 +17,9 @@ dns:
   nameserver:
    - udp://223.5.5.5:53
    - udp://119.29.29.29:53
-   - udp://180.76.76.76:53
   fallback:
-   - udp://1.1.1.1:53
-   - udp://8.8.8.8:53
-   - udp://9.9.9.9:53
+   - https://cloudflare-dns.com/dns-query
+   - https://dns.google/dns-query
   fallback-filter:
    geoip: true
    ipcidr:
