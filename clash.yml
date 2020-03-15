@@ -17,6 +17,7 @@ dns:
   nameserver:
    - udp://223.5.5.5:53
    - udp://119.29.29.29:53
+   - https://dns.rubyfish.cn/dns-query
   fallback:
    - https://cloudflare-dns.com/dns-query
    - https://dns.google/dns-query
