@@ -21,6 +21,7 @@ dns:
   fallback:
    - https://cloudflare-dns.com/dns-query
    - https://dns.google/dns-query
+   - https://dns.nextdns.io/4ea321
   fallback-filter:
    geoip: true
    ipcidr:
