@@ -17,12 +17,9 @@ dns:
   nameserver:
    - udp://223.5.5.5:53
    - udp://119.29.29.29:53
-   - udp://117.50.11.11:53
-   - udp://117.50.10.10:53
   fallback:
    - https://cloudflare-dns.com/dns-query
    - https://dns.google/dns-query
-   - https://dns.rubyfish.cn/dns-query
   fallback-filter:
    geoip: true
    ipcidr:
