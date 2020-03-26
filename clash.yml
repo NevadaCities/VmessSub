@@ -7,6 +7,7 @@ external-ui: dashboard_Razord
 external-controller: 127.0.0.1:9090
 experimental:
   ignore-resolve-fail: true
+  interface-name: 本地连接
 dns:
   enable: true
   listen: 0.0.0.0:53
