@@ -1,2 +1,1 @@
-trojan://vpstoolbox@www.trojan-gfw.xyz:443
-trojan://trojanisthebest@www.trojan-gfw.xyz:443
+dHJvamFuOi8vdnBzdG9vbGJveEB3d3cudHJvamFuLWdmdy54eXo6NDQzCnRyb2phbjovL3Ryb2phbmlzdGhlYmVzdEB3d3cudHJvamFuLWdmdy54eXo6NDQz
