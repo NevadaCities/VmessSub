@@ -12,14 +12,10 @@ dns:
   enable: true
   listen: 0.0.0.0:1053
   ipv6: false
-  enhanced-mode: fake-ip
-  fake-ip-range: 192.18.0.1/16
-  fake-ip-filter:
-   - '*.lan'
-   - localhost.ptlogin2.qq.com
+  enhanced-mode: redir-host
   nameserver:
    - 119.29.29.29
-   - https://dns.alidns.com/dns-query
+   - 223.5.5.5
   fallback:
    - https://cloudflare-dns.com/dns-query
    - https://dns.google/dns-query
