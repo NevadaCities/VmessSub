@@ -12,10 +12,9 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   nameserver:
-    - 8.8.8.8
-    - 1.0.0.1
-    - 1.2.4.8
-    - 208.67.222.222
+    - https://dns.google/dns-query
+    - https://cloudflare-dns.com/dns-query
+    - https://doh.rixcloud.dev/dns-query
 Proxy: ~
 Proxy Group: ~
 Rule: ~ 
