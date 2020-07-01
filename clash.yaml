@@ -20,6 +20,6 @@ dns:
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
     - https://doh.rixcloud.dev/dns-query
-Proxy: ~
-Proxy Group: ~
-Rule: ~ 
+proxies: ~
+proxy-groups: ~
+rules: ~ 
