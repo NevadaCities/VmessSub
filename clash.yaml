@@ -12,6 +12,16 @@ dns:
   ipv6: false
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - '*.lan'
+    - localhost.ptlogin2.qq.com
+    - 'stun.*.*' 
+    - 'stun.*.*.*' 
+    - 'stun.*.*.*.*' 
+    - '*.*.*.*.srv.nintendo.net'
+    - '*.*.*.stun.playstation.net'
+    - 'xbox.*.microsoft.com'
+    - '*.*.*.xboxlive.com'
   default-nameserver:
     - 1.1.1.1
     - 1.0.0.1
