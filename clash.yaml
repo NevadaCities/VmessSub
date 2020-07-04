@@ -22,13 +22,10 @@ dns:
     - '*.*.*.stun.playstation.net'
     - 'xbox.*.microsoft.com'
     - '*.*.*.xboxlive.com'
-  default-nameserver:
-    - 1.1.1.1
-    - 1.0.0.1
   nameserver:
-    - https://dns.google/dns-query
-    - https://cloudflare-dns.com/dns-query
-    - https://doh.rixcloud.dev/dns-query
+    - 1.1.1.1
+    - 8.8.8.8
+    - 1.2.4.8
 proxies: ~
 proxy-groups: ~
 rules: ~ 
