@@ -19,7 +19,8 @@ dns:
   nameserver:
     - 1.1.1.1
     - 8.8.8.8
-    - 1.2.4.8
+    - 208.67.222.222
+    - 52.80.52.52
 proxies: ~
 proxy-groups: ~
 rules: ~ 
