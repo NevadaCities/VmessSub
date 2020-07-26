@@ -2,16 +2,15 @@ mixed-port: 7890
 allow-lan: false
 mode: Rule
 log-level: info
-ipv6: false
+ipv6: true
 external-controller: 127.0.0.1:9090
 experimental:
   ignore-resolve-fail: true
 dns:
   enable: true
   listen: 0.0.0.0:1053
-  ipv6: false
+  ipv6: true
   enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     - 'stun.*.*' 
     - 'stun.*.*.*' 
