@@ -3,9 +3,6 @@ allow-lan: false
 mode: Rule
 log-level: info
 ipv6: true
-external-controller: 127.0.0.1:9090
-experimental:
-  ignore-resolve-fail: true
 dns:
   enable: true
   listen: 0.0.0.0:1053
