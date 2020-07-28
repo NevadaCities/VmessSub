@@ -1,23 +1,24 @@
 mixed-port: 7890
 allow-lan: false
-mode: Rule
+mode: rule
 log-level: info
 ipv6: true
 dns:
   enable: true
-  listen: 0.0.0.0:1053
   ipv6: true
-  enhanced-mode: fake-ip
-  fake-ip-filter:
-    - 'stun.*.*' 
-    - 'stun.*.*.*' 
-    - 'stun.*.*.*.*' 
+  listen: 127.0.0.1:1053
+  enhanced-mode: redir-host
   nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
     - 1.1.1.1
     - 8.8.8.8
-    - 208.67.222.222
-    - 223.5.5.5
-    - 119.29.29.29
+  fallback-filter:
+    geoip: true
+    ipcidr:
+      - 240.0.0.0/24
+      - 0.0.0.0/32
 proxies: ~
 proxy-groups: ~
 rules: ~ 
