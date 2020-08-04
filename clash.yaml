@@ -3,6 +3,8 @@ allow-lan: false
 mode: rule
 log-level: info
 ipv6: true
+hosts:
+  local.lan: "127.0.0.1"
 dns:
   enable: true
   ipv6: true
@@ -21,6 +23,7 @@ dns:
   fallback-filter:
     geoip: true
     ipcidr:
+      - 127.0.0.0/8
       - 240.0.0.0/24
       - 0.0.0.0/32
 proxies: ~
