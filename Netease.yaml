@@ -1,0 +1,17 @@
+proxies:
+  - name: "🎧解锁 1"
+    type: http
+    server: 106.52.127.72
+    port: 19951
+  - name: "🎧解锁 2"
+    type: http
+    server: aimer.one
+    port: 2333
+  - name: "🎧解锁 3"
+    type: http
+    server: taron.top
+    port: 100
+  - name: "🎧解锁 4"
+    type: http
+    server: music.griouges.cn
+    port: 39000
