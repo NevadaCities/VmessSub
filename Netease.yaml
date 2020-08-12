@@ -4,3 +4,4 @@ proxies:
   - {name: 🎧 网易云解锁 3, server: taron.top, port: 100, type: http, tls: false}
   - {name: 🎧 网易云解锁 4, server: music.griouges.cn, port: 39000, type: http, tls: false}
   - {name: 🎧 网易云解锁 5, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
+  - {name: 🎧 网易云解锁 6, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
