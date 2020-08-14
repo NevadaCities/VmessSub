@@ -11,6 +11,10 @@ dns:
   ipv6: true
   listen: 127.0.0.1:1053
   enhanced-mode: redir-host
+  default-nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+    - 223.5.5.5
   nameserver:
     - 1.1.1.1
     - 8.8.8.8
