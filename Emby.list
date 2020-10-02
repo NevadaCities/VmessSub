@@ -1,5 +1,5 @@
 #Emby Movie
+DOMAIN-KEYWORD,emby
+DOMAIN-SUFFIX,xeton.dev
 PROCESS-NAME,kodi.exe
 PROCESS-NAME,com.mb.android
-DOMAIN-SUFFIX,xeton.dev
-DOMAIN-KEYWORD,emby
