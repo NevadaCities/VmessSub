@@ -1,0 +1,6 @@
+proxies:
+  - name: "🇭🇰 香港 HKBN"
+    type: http
+    server: hkbn2.ghelper.net
+    port: 443
+    tls: true
