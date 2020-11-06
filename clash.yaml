@@ -31,4 +31,9 @@ dns:
       - 0.0.0.0/32
 proxies: ~
 proxy-groups: ~
-rules: ~ 
+rules: 
+ - PROCESS-NAME,QQPCSoftMgr.exe
+ - PROCESS-NAME,QQPCSoftGame.exe
+ - PROCESS-NAME,QQPCSoftConfig.exe
+ - PROCESS-NAME,QQPCSoftCmd.exe
+ ~
