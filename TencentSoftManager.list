@@ -1,0 +1,5 @@
+# TencentSoftManager
+PROCESS-NAME,QQPCSoftMgr.exe
+PROCESS-NAME,QQPCSoftGame.exe
+PROCESS-NAME,QQPCSoftConfig.exe
+PROCESS-NAME,QQPCSoftCmd.exe
