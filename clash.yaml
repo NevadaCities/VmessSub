@@ -4,7 +4,7 @@ mode: rule
 log-level: info
 ipv6: true
 hosts: 
-  'service.googleapis.cn': 172.217.160.106
+  'service.googleapis.cn': 172.217.160.74
 dns:
   enable: true
   ipv6: true
