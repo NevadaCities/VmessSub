@@ -29,6 +29,8 @@ dns:
     ipcidr:
       - 127.0.0.0/8
       - 0.0.0.0/32
+    domain: 
+      - '*.googleapis.cn'
 proxies: ~
 proxy-groups: ~
 rules: ~ 
