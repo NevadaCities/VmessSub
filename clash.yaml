@@ -3,8 +3,6 @@ allow-lan: false
 mode: rule
 log-level: info
 ipv6: true
-hosts: 
-  'service.googleapis.cn': 172.217.11.170
 dns:
   enable: true
   ipv6: true
