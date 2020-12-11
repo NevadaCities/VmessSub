@@ -1,5 +1,6 @@
 #Emby Movie
 DOMAIN-KEYWORD,emby
+PROCESS-NAME,Emby.Theater.exe
 PROCESS-NAME,electron.exe
 PROCESS-NAME,kodi.exe
 PROCESS-NAME,com.mb.android
