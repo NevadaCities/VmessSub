@@ -1,6 +1,7 @@
 # QQ
 RROCESS-NAME,QQ.exe
 PROCESS-NAME,QQScLauncher.exe
+PROCESS-NAME,QQUrlMgr.exe
 # WeChat
 PROCESS-NAME,WeChat.exe
 PROCESS-NAME,WeChatApp.exe
