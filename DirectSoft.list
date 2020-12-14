@@ -1,14 +1,11 @@
-##QQ
 RROCESS-NAME,QQ.exe
 PROCESS-NAME,QQScLauncher.exe
 PROCESS-NAME,QQUrlMgr.exe
-##WeChat
 PROCESS-NAME,WeChat.exe
 PROCESS-NAME,WeChatApp.exe
 PROCESS-NAME,WechatAppLauncher.exe
 PROCESS-NAME,WeChatWeb.exe
 PROCESS-NAME,WeChatDecoder.exe
-##TencentSoftManager
 PROCESS-NAME,QQPCSoftMgr.exe
 PROCESS-NAME,QQPCSoftGame.exe
 PROCESS-NAME,QQPCSoftConfig.exe
