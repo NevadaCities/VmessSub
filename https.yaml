@@ -1,7 +1,6 @@
 proxies:
   - {name: 美国 Contabo, server: us-01.ghelper.net, port: 443, type: http, tls: true}
   - {name: 美国 HE, server: he.ghelper.net, port: 443, type: http, tls: true}
-  - {name: 美国 HE, server: he3.ghelper.net, port: 443, type: http, tls: true}
   - {name: 美国 HE, server: ushe.ghelper.net, port: 443, type: http, tls: true}
   - {name: 美国 petaexpress, server: us-cn2-01.ghelper.net, port: 443, type: http, tls: true}
   - {name: 美国 petaexpress, server: us-cn2-04.ghelper.net, port: 443, type: http, tls: true}
