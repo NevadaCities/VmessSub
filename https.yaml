@@ -1,0 +1,18 @@
+proxies:
+  - {name: 美国 Contabo, server: us-01.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 美国 HE, server: he.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 美国 HE, server: he3.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 美国 HE, server: ushe.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 美国 petaexpress, server: us-cn2-01.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 美国 petaexpress, server: us-cn2-04.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 日本 ThinkHuge, server: jp-cu.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 台湾 HiNet, server: tw.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 土耳其 NGDatacenter, server: tr.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 香港 HKBN, server: hkbn05.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 香港 HKBN, server: hkbn07.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 香港 HKBN, server: hkbn1.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 香港 HKBN, server: hkbn2.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 香港 HKBN, server: hkbn-home.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 香港 HKBN, server: hk-hkbn.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 香港 HKBN, server: hk-wtt.ghelper.net, port: 443, type: http, tls: true}
+  - {name: 香港 HKBN, server: hk-wtt-01.ghelper.net, port: 443, type: http, tls: true}
