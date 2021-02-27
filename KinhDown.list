@@ -1,0 +1,6 @@
+#KinhDown
+PROCESS-NAME,KinhDown.exe
+PROCESS-NAME,Update.exe
+PROCESS-NAME,私有云参数获取器.exe
+PROCESS-NAME,Aria2c[KinhDown].exe
+PROCESS-NAME,Aria2c-Go.exe
