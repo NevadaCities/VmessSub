@@ -6,27 +6,10 @@ ipv6: false
 dns:
   enable: true
   ipv6: false
-  listen: 127.0.0.1:1053
   enhanced-mode: redir-host
-  default-nameserver:
-    - 1.1.1.1
-    - 8.8.8.8
-    - 223.5.5.5
   nameserver:
-    - 1.1.1.1
-    - 8.8.8.8
     - 119.29.29.29
     - 223.5.5.5
-  fallback:
-    - https://cloudflare-dns.com/dns-query
-    - https://dns.google/dns-query
-    - https://doh.pub/dns-query
-    - https://223.5.5.5/dns-query
-  fallback-filter:
-    geoip: false
-    ipcidr:
-      - 127.0.0.0/8
-      - 0.0.0.0/32
 proxies: ~
 proxy-groups: ~
 rules: ~ 
