@@ -1,0 +1,9 @@
+proxies:
+  - {name: 香港 BGP, server: cm.stunnel.vip, port: 4700, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
+  - {name: 香港 BGP 2, server: cm-hk.stunnel.vip, port: 4700, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
+  - {name: 香港 BGP 3, server: hkbgp.xyz, port: 5228, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
+  - {name: 香港 WTT, server: www.wtthelper.com, port: 443, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
+  - {name: 台湾 HiNet, server: api.twhelper.guide, port: 443, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
+  - {name: 日本 BGP, server: jp.stunnel.vip, port: 6300, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
+  - {name: 德国 Contabo, server: de.gusa.xyz, port: 443, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
+  - {name: 土耳其 NGDataCenter, server: tr.gusa.xyz, port: 443, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
