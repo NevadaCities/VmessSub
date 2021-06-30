@@ -1,9 +1,8 @@
 mixed-port: 7890
 allow-lan: false
 mode: rule
-log-level: info
+log-level: warning
 ipv6: false
-external-controller: 127.0.0.1:9090
 dns:
   enable: true
   ipv6: false
@@ -12,5 +11,6 @@ dns:
     - 119.29.29.29
     - 223.5.5.5
 proxies: ~
+rule-providers: ~
 proxy-groups: ~
 rules: ~ 
