@@ -1,11 +1,11 @@
 proxies:
-  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: chf, sni: dc6.jongder.top}
-  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: djw, sni: dc6.jongder.top}
-  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: hwz, sni: dc6.jongder.top}
-  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: jzd, sni: dc6.jongder.top}
-  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: karas, sni: dc6.jongder.top}
-  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: vanessa, sni: dc6.jongder.top}
-  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: xzg, sni: dc6.jongder.top}
-  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: zb, sni: dc6.jongder.top}
-  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: zsy, sni: dc6.jongder.top}
-  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: zzw, sni: dc6.jongder.top}
+  - {name: Trojan 1, server: dc6.jongder.top, port: 443, type: trojan, password: chf}
+  - {name: Trojan 2, server: dc6.jongder.top, port: 443, type: trojan, password: djw}
+  - {name: Trojan 3, server: dc6.jongder.top, port: 443, type: trojan, password: hwz}
+  - {name: Trojan 4, server: dc6.jongder.top, port: 443, type: trojan, password: jzd}
+  - {name: Trojan 5, server: dc6.jongder.top, port: 443, type: trojan, password: karas}
+  - {name: Trojan 6, server: dc6.jongder.top, port: 443, type: trojan, password: vanessa}
+  - {name: Trojan 7, server: dc6.jongder.top, port: 443, type: trojan, password: xzg}
+  - {name: Trojan 8, server: dc6.jongder.top, port: 443, type: trojan, password: zb}
+  - {name: Trojan 9, server: dc6.jongder.top, port: 443, type: trojan, password: zsy}
+  - {name: Trojan 10, server: dc6.jongder.top, port: 443, type: trojan, password: zzw}
