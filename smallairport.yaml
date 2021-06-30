@@ -1,0 +1,5 @@
+common:
+  exclude_remarks: ["(到期|过期|剩余|时间|官网)"]
+node_pref:
+  rename_node:
+    - {match: ".*?\/(\X\X)\s(\X)\s-\s(\X\X\X\X)", replace: "$1 $2 $3"}
