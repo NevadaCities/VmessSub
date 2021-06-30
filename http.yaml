@@ -1,8 +1,0 @@
-proxies:
-  - {name: 香港 BGP 1, server: cm.stunnel.vip, port: 4700, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 香港 BGP 2, server: cm-hk.stunnel.vip, port: 4800, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 英国, server: uk.gotochinatown.net, port: 10882, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 俄罗斯, server: ru.gotochinatown.net, port: 10883, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 美国 BGP, server: cm-us.stunnel.vip, port: 3300, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 台湾, server: tw.gotochinatown.net, port: 10881, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: QQ邮箱代理, server: gp.mail.qq.com, username: secondaccount, password: secondpassword@123, port: 443, type: http, tls: false}
