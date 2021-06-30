@@ -1,0 +1,4 @@
+proxies:
+  - {name: 香港, server: dg-hk-node01.linkthink.app, port: 10745, type: ssr, cipher: rc4-md5, password: abK09D1FnV, protocol: auth_aes128_md5, obfs: http_post, protocol-param: 169234:2WBnwvH5ek, obfs-param: ajax.microsoft.com}
+  - {name: 台湾 1, server: 42.157.196.104, port: 10581, type: ssr, cipher: aes-256-cfb, password: vCmp8ALih6, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 169234:2WBnwvH5ek, obfs-param: ajax.microsoft.com}
+  - {name: 台湾 2, server: 42.157.196.104, port: 20378, type: ssr, cipher: aes-256-cfb, password: CWSZscLkjf, protocol: auth_aes128_md5, obfs: http_post, protocol-param: 169234:2WBnwvH5ek, obfs-param: ajax.microsoft.com}
