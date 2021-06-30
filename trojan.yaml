@@ -1,0 +1,11 @@
+proxies:
+  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: chf, sni: dc6.jongder.top}
+  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: djw, sni: dc6.jongder.top}
+  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: hwz, sni: dc6.jongder.top}
+  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: jzd, sni: dc6.jongder.top}
+  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: karas, sni: dc6.jongder.top}
+  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: vanessa, sni: dc6.jongder.top}
+  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: xzg, sni: dc6.jongder.top}
+  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: zb, sni: dc6.jongder.top}
+  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: zsy, sni: dc6.jongder.top}
+  - {name: dc6.jongder.top:443, server: dc6.jongder.top, port: 443, type: trojan, password: zzw, sni: dc6.jongder.top}
