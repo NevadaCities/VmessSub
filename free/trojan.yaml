@@ -1,11 +1,11 @@
 proxies:
-  - {name: 🇺🇸 美国 1, server: dc6.jongder.top, port: 443, type: trojan, password: chf}
-  - {name: 🇺🇸 美国 2, server: dc6.jongder.top, port: 443, type: trojan, password: djw}
-  - {name: 🇺🇸 美国 3, server: dc6.jongder.top, port: 443, type: trojan, password: hwz}
-  - {name: 🇺🇸 美国 4, server: dc6.jongder.top, port: 443, type: trojan, password: jzd}
-  - {name: 🇺🇸 美国 5, server: dc6.jongder.top, port: 443, type: trojan, password: karas}
-  - {name: 🇺🇸 美国 6, server: dc6.jongder.top, port: 443, type: trojan, password: vanessa}
-  - {name: 🇺🇸 美国 7, server: dc6.jongder.top, port: 443, type: trojan, password: xzg}
-  - {name: 🇺🇸 美国 8, server: dc6.jongder.top, port: 443, type: trojan, password: zb}
-  - {name: 🇺🇸 美国 9, server: dc6.jongder.top, port: 443, type: trojan, password: zsy}
-  - {name: 🇺🇸 美国 10, server: dc6.jongder.top, port: 443, type: trojan, password: zzw}
+  - {name: 🇺🇸 美国 1, server: dc6.jongder.top, port: 34443, type: trojan, password: chf}
+  - {name: 🇺🇸 美国 2, server: dc6.jongder.top, port: 34443, type: trojan, password: djw}
+  - {name: 🇺🇸 美国 3, server: dc6.jongder.top, port: 34443, type: trojan, password: hwz}
+  - {name: 🇺🇸 美国 4, server: dc6.jongder.top, port: 34443, type: trojan, password: jzd}
+  - {name: 🇺🇸 美国 5, server: dc6.jongder.top, port: 34443, type: trojan, password: karas}
+  - {name: 🇺🇸 美国 6, server: dc6.jongder.top, port: 34443, type: trojan, password: vanessa}
+  - {name: 🇺🇸 美国 7, server: dc6.jongder.top, port: 34443, type: trojan, password: xzg}
+  - {name: 🇺🇸 美国 8, server: dc6.jongder.top, port: 34443, type: trojan, password: zb}
+  - {name: 🇺🇸 美国 9, server: dc6.jongder.top, port: 34443, type: trojan, password: zsy}
+  - {name: 🇺🇸 美国 10, server: dc6.jongder.top, port: 34443, type: trojan, password: zzw}
