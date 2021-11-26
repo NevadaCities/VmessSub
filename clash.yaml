@@ -1,15 +1,31 @@
 mixed-port: 7890
 allow-lan: false
 mode: rule
-log-level: warning
+log-level: info
 ipv6: false
 dns:
   enable: true
-  ipv6: false
-  enhanced-mode: redir-host
+  enhanced-mode: fake-ip
+  use-hosts: true
+  fake-ip-filter:
+    - "dns.msftncsi.com"
+    - "www.msftncsi.com"
+    - "www.msftconnecttest.com"
+  nameserver-policy:
+    'dns.msftncsi.com': '114.114.114.114'
+    'www.msftncsi.com': '114.114.114.114'
+    'www.msftconnecttest.com': '114.114.114.114'
+  default-nameserver:
+    - 8.8.8.8
   nameserver:
-    - 119.29.29.29
     - 223.5.5.5
+    - 119.29.29.29
+  fallback:
+    - https://1.1.1.1/dns-query
+    - https://dns.google/dns-query
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
 proxies: ~
 proxy-groups: ~
 rules: ~ 
