@@ -1,7 +1,0 @@
-#Emby Movie
-DOMAIN-KEYWORD,emby
-DOMAIN-SUFFIX,xeton.dev
-PROCESS-NAME,Emby.Theater.exe
-PROCESS-NAME,electron.exe
-PROCESS-NAME,kodi.exe
-PROCESS-NAME,com.mb.android
