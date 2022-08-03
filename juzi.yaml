@@ -1,1 +1,11 @@
-
+node_pref:
+  rename_node:
+    - {match: "(..dns.*)|(ws.*)|(-|2-)|(tcp.*)|(.低延迟)|(小水管)|(娱乐)|(大带宽)|(\s3Gbps)", replace: ""}
+    - {match: "80.*", replace: " 80端口"}
+    - {match: "东京", replace: "日本"}
+    - {match: "首尔", replace: "韩国"}
+emojis:
+  add_emoji: true
+  remove_old_emoji: true
+  rules:
+    - {match: "(流量|时间|应急)", emoji: "🏳️‍🌈"}
