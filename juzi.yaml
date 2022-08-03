@@ -4,8 +4,11 @@ node_pref:
     - {match: "80.*", replace: " 80端口"}
     - {match: "东京", replace: "日本"}
     - {match: "首尔", replace: "韩国"}
+
 emojis:
   add_emoji: true
   remove_old_emoji: true
   rules:
-    - {match: "(流量|时间|应急)", emoji: "🏳️‍🌈"}
+    - {match: "东京|日本", emoji: "🇯🇵"}
+    - {match: "首尔|韩国", emoji: "🇰🇷"}
+    - {match: "新加坡", emoji: "🇸🇬"}
