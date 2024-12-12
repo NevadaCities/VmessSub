@@ -5,7 +5,6 @@ log-level: warning
 dns:
   enable: true
   enhanced-mode: fake-ip
-  use-hosts: true
   fake-ip-filter:
     - '+.stun.*.*'
     - '+.stun.*.*.*'
