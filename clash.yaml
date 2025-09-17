@@ -16,8 +16,8 @@ dns:
     - tls://223.5.5.5
     - tls://223.6.6.6
   nameserver:
-    - https://doh.pub/dns-query
     - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
 proxies: ~
 proxy-groups: ~
 rules: ~ 
