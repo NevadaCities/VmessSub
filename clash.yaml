@@ -1,11 +1,11 @@
 mixed-port: 7890
 allow-lan: false
-ipv6: false
+ipv6: true
 mode: rule
 log-level: warning
 dns:
   enable: true
-  ipv6: false
+  ipv6: true
   enhanced-mode: fake-ip
   fake-ip-filter:
     - "*"
